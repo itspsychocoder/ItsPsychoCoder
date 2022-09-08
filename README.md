@@ -10,7 +10,21 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me:
+- 💻 Full Stack Web Developer
+- 🔭 I’m currently working on: [My Portfolio Website](https://github.com/HussnainAhmad1606/Portfolio-Website-September-Hackathon)
+- 🌱 I’m currently learning: React JS
+- 💬 Have a Project Idea: Reach Me!
+- 📫 How to reach me: [Twitter](https://www.twitter.com/HussnainAhmad1606/) OR [Facebook](https://www.facebook.com/HussnainAhmad25/)
+- 😄 Nickname: Psycho Coder
+
+## GitHub Stats:
+![Hussnain Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hussnainahmad1606&show_icons=true&theme=tokyonight)
+
+
+## Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussnainahmad1606&layout=compact)
