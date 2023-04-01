@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # About Me:
 - 💻 Full Stack Web Developer
 - 🔭 I’m currently working on: My Product
-- 🌱 I’m currently learning: React JS
+- 🌱 I’m currently learning: Next JS
 - 💬 Have a Project Idea: Reach Me!
 - 📫 How to reach me: [Twitter](https://www.twitter.com/HussnainAhmad1606/) OR [Facebook](https://www.facebook.com/HussnainAhmad25/)
 - 😄 Nickname: Psycho Coder
