@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ## GitHub Stats:
 ![Hussnain Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hussnainahmad1606&show_icons=true&theme=tokyonight)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=HussnainAhmad1606&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussnainahmad1606&layout=compact)
