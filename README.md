@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 # About Me:
 - 💻 Full Stack Web Developer
-- 🔭 I’m currently working on: My Product
+- 🔭 I’m currently working on: [LogFusion](https://logfusion.net/)
 - 🌱 I’m currently learning: Next JS
 - 💬 Have a Project Idea: Reach Me!
-- 📫 How to reach me: [Twitter](https://www.twitter.com/HussnainAhmad1606/) OR [Facebook](https://www.facebook.com/HussnainAhmad25/)
+- 📫 How to reach me: [Twitter](https://www.twitter.com/PsychoTheCoder/) OR [LinkedIn](https://www.linkedin.com/in/hussnain-ahmad/)
 - 😄 Nickname: Psycho Coder
 
 ## GitHub Stats:
