@@ -93,6 +93,55 @@
 <br />
 <br />
 
+# Journals and Reflections
+Besides coding, I also enjoy writing blogs on various topics. Whether it's coding-related or something entirely different. These are some of my writings ranging from coding and non-coding, check it out and feel free to share your thoughts! ;)
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="#">Disparate Wanderings of Psycho Coder</a></h3>
+      <p><strong>Articles about completed projects, weekly updates on my work and more</p>
+        <a href="https://psychocoder.hashnode.dev/" target="_blank">View Blog</a>
+        <hr/>
+        <div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
+        <h4>MyStudyMate: AI Tool for Optimizing Your Study Schedule</h4>
+        <a href="https://psychocoder.hashnode.dev/mystudymate-ai-tool-for-optimizing-your-study-schedule">Read more</a>
+      </div>
+         <hr/>
+      <div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
+        <h4>I Conducted my first Web Development Bootcamp</h4>
+        <a target="_blank" href="https://psychocoder.hashnode.dev/i-conducted-my-first-web-development-bootcamp">Read more</a>
+      </div>
+        <hr/>
+      <div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
+        <h4>ArbiSoft Office Tour</h4>
+        <a href="https://psychocoder.hashnode.dev/arbisoft-office-tour">Read more</a>
+      </div>
+    </td>
+    <td width="50%">
+        <h3><a href="#">Psycho Coder Lab</a></h3>
+      <p><strong>Write about my ongoing projects, experiments & detailed technical insights</p>
+        <a href="https://psychocoderlab.substack.com/" target="_blank">View Blog</a>
+           <hr/>
+      <div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
+        <h4>MyStudyMate - Devlog # 01</h4>
+        <a href="https://psychocoderlab.substack.com/p/mystudymate-devlog-01">Read more</a>
+      </div>
+        <hr/>
+      <div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
+        <h4>Buildspace n&w Progress - week # 01</h4>
+        <a href="https://psychocoderlab.substack.com/p/buildspace-n-and-w-progress-week">Read more</a>
+      </div>
+          <hr/>
+          <div style="background-color: #f6f8fa; border: 1px solid #ddd; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
+        <h4>Coming Soon</h4>
+        <a href="https://psychocoderlab.substack.com/p/coming-soon">Read more</a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 
 ## GitHub Stats:
 
