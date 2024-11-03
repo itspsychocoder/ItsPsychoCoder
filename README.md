@@ -145,4 +145,4 @@ Besides coding, I also enjoy writing blogs on various topics. Whether it's codin
 
 ## GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HussnainAhmad1606&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ItsPsychoCoder&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
