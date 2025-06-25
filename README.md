@@ -5,7 +5,7 @@
 - 💻 Full Stack Web Developer
 - 🔭 I’m currently working on: [Fluxxion](https://fluxxion.dev/)
 - 💬 Have a Project Idea: Reach Me!
-- 📫 How to reach me: [Twitter](https://www.twitter.com/PsychoTheCoder/) [LinkedIn](https://www.linkedin.com/in/hussnain-ahmad/) [Instagram](https://www.instagram.com/phobic.psycho/)
+- 📫 How to reach me: [Twitter](https://www.twitter.com/ItsPsychoCoder/) [LinkedIn](https://www.linkedin.com/in/hussnain-ahmad/) [Instagram](https://www.instagram.com/phobic.psycho/)
 - 😄 Nickname: Psycho Coder
 <!-- - 🌱 I’m currently learning: Next JS -->
 
